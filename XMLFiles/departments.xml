@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Departments>
+	<Department>
+		<Id>1</Id>
+		<Name>Department-1</Name>
+	</Department>
+	<Department>
+		<Id>2</Id>
+		<Name>Department-2</Name>
+	</Department>
+	<Department>
+		<Id>3</Id>
+		<Name>Department-3</Name>
+	</Department>
+	<Department>
+		<Id>4</Id>
+		<Name>Department-4</Name>
+	</Department>
+</Departments>

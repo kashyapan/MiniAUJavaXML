@@ -1,0 +1,45 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<employees>
+	<employee >
+		<Id>1</Id>
+		<Name>Employee-1</Name>
+		<Salary>1000000</Salary>
+		<DepartmentId>1</DepartmentId>
+	</employee>
+
+	<employee>
+		<Id>2</Id>
+		<Name>Employee-2</Name>
+		<Salary>2000000</Salary>
+		<DepartmentId>2</DepartmentId>
+	</employee>
+
+	<employee>
+		<Id>3</Id>
+		<Name>Employee-3</Name>
+		<Salary>3000000</Salary>
+		<DepartmentId>1</DepartmentId>
+	</employee>
+
+	<employee>
+		<Id>4</Id>
+		<Name>Employee-4</Name>
+		<Salary>4000000</Salary>
+		<DepartmentId>1</DepartmentId>
+	</employee>
+
+	<employee>
+		<Id>5</Id>
+		<Name>Employee-5</Name>
+		<Salary>1000000</Salary>
+		<DepartmentId>3</DepartmentId>
+	</employee>
+
+	<employee>
+		<Id>6</Id>
+		<Name>Employee-6</Name>
+		<Salary>1000000</Salary>
+		<DepartmentId>4</DepartmentId>
+	</employee>
+
+</employees>
